@@ -1,4 +1,9 @@
+# Binary files
+shortest_paths
+
+# Other
 .DS_Store
+*.txt
 
 # Prerequisites
 *.d

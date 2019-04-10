@@ -10,16 +10,17 @@ def main():
   outfname = sys.argv[2]
 
   dist = [[random.randint(-1000, 1000) for i in range(N)] for j in range(N)]
-  # dist[i][i] should be 0 for all i
-  for i in range(N):
-    dist[i][i] = 0
   # Choose a random number m from [0, N^2] and assign this many edges to inf
   m = random.randint(0, N * N)
   idx = [(random.randint(0, N - 1), random.randint(0, N - 1)) for _ in range(m)]
   for i, j in idx:
     dist[i][j] = 10000000
+  # dist[i][i] should be 0 for all i
+  for i in range(N):
+    dist[i][i] = 0
 
   with open(outfname, 'w') as fout:
+    fout.write('{}\n'.format(N))
     for i in range(N):
       for j in range(N):
         fout.write('{:<10}'.format(dist[i][j]))
