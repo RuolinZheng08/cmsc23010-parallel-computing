@@ -1,0 +1,121 @@
+Trial,Program,W,T
+1,serial,25,14327679
+1,lockfree,25,4191284
+1,mutex homequeue,25,4085590
+1,clh homequeue,25,3971000
+1,serial,50,10077658
+1,lockfree,50,4002263
+1,mutex homequeue,50,4001266
+1,clh homequeue,50,3974147
+1,serial,100,6313559
+1,lockfree,100,3861973
+1,mutex homequeue,100,3237558
+1,clh homequeue,100,3617690
+1,serial,200,3619936
+1,lockfree,200,2687604
+1,mutex homequeue,200,2364546
+1,clh homequeue,200,2627206
+1,serial,400,1953586
+1,lockfree,400,1676202
+1,mutex homequeue,400,1524524
+1,clh homequeue,400,1628781
+1,serial,800,1016941
+1,lockfree,800,937002
+1,mutex homequeue,800,889512
+1,clh homequeue,800,925328
+2,serial,25,14337293
+2,lockfree,25,4174335
+2,mutex homequeue,25,4110891
+2,clh homequeue,25,3944847
+2,serial,50,9967271
+2,lockfree,50,4273802
+2,mutex homequeue,50,3987698
+2,clh homequeue,50,3858590
+2,serial,100,6312402
+2,lockfree,100,3855008
+2,mutex homequeue,100,3240364
+2,clh homequeue,100,3616287
+2,serial,200,3621249
+2,lockfree,200,2708325
+2,mutex homequeue,200,2373299
+2,clh homequeue,200,2610485
+2,serial,400,1955906
+2,lockfree,400,1669238
+2,mutex homequeue,400,1523366
+2,clh homequeue,400,1627703
+2,serial,800,1016746
+2,lockfree,800,936535
+2,mutex homequeue,800,886798
+2,clh homequeue,800,925332
+3,serial,25,14370523
+3,lockfree,25,4126650
+3,mutex homequeue,25,4216929
+3,clh homequeue,25,3942499
+3,serial,50,10083273
+3,lockfree,50,4090105
+3,mutex homequeue,50,4079530
+3,clh homequeue,50,3952871
+3,serial,100,6311920
+3,lockfree,100,3847035
+3,mutex homequeue,100,3227095
+3,clh homequeue,100,3610157
+3,serial,200,3622758
+3,lockfree,200,2703060
+3,mutex homequeue,200,2346015
+3,clh homequeue,200,2589417
+3,serial,400,1953692
+3,lockfree,400,1668166
+3,mutex homequeue,400,1523878
+3,clh homequeue,400,1627623
+3,serial,800,1015294
+3,lockfree,800,936923
+3,mutex homequeue,800,887143
+3,clh homequeue,800,927373
+4,serial,25,14411226
+4,lockfree,25,4137677
+4,mutex homequeue,25,4161506
+4,clh homequeue,25,4051280
+4,serial,50,10091655
+4,lockfree,50,4121576
+4,mutex homequeue,50,3988238
+4,clh homequeue,50,3800491
+4,serial,100,6336927
+4,lockfree,100,3920720
+4,mutex homequeue,100,3222362
+4,clh homequeue,100,3684782
+4,serial,200,3620560
+4,lockfree,200,2736847
+4,mutex homequeue,200,2360429
+4,clh homequeue,200,2586474
+4,serial,400,1953825
+4,lockfree,400,1674312
+4,mutex homequeue,400,1516609
+4,clh homequeue,400,1627734
+4,serial,800,1016998
+4,lockfree,800,937404
+4,mutex homequeue,800,890720
+4,clh homequeue,800,924984
+5,serial,25,14363897
+5,lockfree,25,4106244
+5,mutex homequeue,25,4100681
+5,clh homequeue,25,4058079
+5,serial,50,10087324
+5,lockfree,50,4035356
+5,mutex homequeue,50,3996289
+5,clh homequeue,50,3920332
+5,serial,100,6332322
+5,lockfree,100,3884197
+5,mutex homequeue,100,3269875
+5,clh homequeue,100,3677932
+5,serial,200,3620057
+5,lockfree,200,2701231
+5,mutex homequeue,200,2360938
+5,clh homequeue,200,2584229
+5,serial,400,1955110
+5,lockfree,400,1675930
+5,mutex homequeue,400,1524261
+5,clh homequeue,400,1634200
+5,serial,800,1016959
+5,lockfree,800,937387
+5,mutex homequeue,800,890112
+5,clh homequeue,800,926083

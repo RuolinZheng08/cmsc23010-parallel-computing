@@ -1,0 +1,1585 @@
+Trial,Program,n,W,T
+1,serial,1,1000,799821
+1,lockfree,1,1000,766630
+1,mutex homequeue,1,1000,734845
+1,mutex awesome,1,1000,733494
+1,clh homequeue,1,1000,759386
+1,clh awesome,1,1000,757974
+1,serial,1,2000,411817
+1,lockfree,1,2000,403362
+1,mutex homequeue,1,2000,394159
+1,mutex awesome,1,2000,393482
+1,clh homequeue,1,2000,401268
+1,clh awesome,1,2000,401559
+1,serial,1,4000,209232
+1,lockfree,1,4000,206864
+1,mutex homequeue,1,4000,204430
+1,mutex awesome,1,4000,204421
+1,clh homequeue,1,4000,206473
+1,clh awesome,1,4000,206449
+1,serial,1,8000,105500
+1,lockfree,1,8000,104913
+1,mutex homequeue,1,8000,104306
+1,mutex awesome,1,8000,104320
+1,clh homequeue,1,8000,104826
+1,clh awesome,1,8000,104801
+1,serial,2,1000,800678
+1,lockfree,2,1000,1313143
+1,mutex homequeue,2,1000,1257753
+1,mutex awesome,2,1000,1431072
+1,clh homequeue,2,1000,1288295
+1,clh awesome,2,1000,1487421
+1,serial,2,2000,411910
+1,lockfree,2,2000,689151
+1,mutex homequeue,2,2000,670499
+1,mutex awesome,2,2000,775804
+1,clh homequeue,2,2000,688141
+1,clh awesome,2,2000,793902
+1,serial,2,4000,209242
+1,lockfree,2,4000,345730
+1,mutex homequeue,2,4000,344638
+1,mutex awesome,2,4000,405632
+1,clh homequeue,2,4000,348801
+1,clh awesome,2,4000,409903
+1,serial,2,8000,105342
+1,lockfree,2,8000,176801
+1,mutex homequeue,2,8000,175586
+1,mutex awesome,2,8000,204784
+1,clh homequeue,2,8000,176359
+1,clh awesome,2,8000,208679
+1,serial,3,1000,800538
+1,lockfree,3,1000,1875458
+1,mutex homequeue,3,1000,1817772
+1,mutex awesome,3,1000,2137302
+1,clh homequeue,3,1000,1897262
+1,clh awesome,3,1000,2234113
+1,serial,3,2000,412221
+1,lockfree,3,2000,997826
+1,mutex homequeue,3,2000,966763
+1,mutex awesome,3,2000,1163870
+1,clh homequeue,3,2000,993655
+1,clh awesome,3,2000,1189622
+1,serial,3,4000,209355
+1,lockfree,3,4000,503885
+1,mutex homequeue,3,4000,502478
+1,mutex awesome,3,4000,610430
+1,clh homequeue,3,4000,508289
+1,clh awesome,3,4000,615597
+1,serial,3,8000,105183
+1,lockfree,3,8000,254720
+1,mutex homequeue,3,8000,255765
+1,mutex awesome,3,8000,311194
+1,clh homequeue,3,8000,256906
+1,clh awesome,3,8000,312877
+1,serial,7,1000,799673
+1,lockfree,7,1000,2691800
+1,mutex homequeue,7,1000,2668459
+1,mutex awesome,7,1000,3562270
+1,clh homequeue,7,1000,2752050
+1,clh awesome,7,1000,3265373
+1,serial,7,2000,411306
+1,lockfree,7,2000,1398838
+1,mutex homequeue,7,2000,1395556
+1,mutex awesome,7,2000,2681683
+1,clh homequeue,7,2000,1424144
+1,clh awesome,7,2000,2716257
+1,serial,7,4000,208628
+1,lockfree,7,4000,710379
+1,mutex homequeue,7,4000,711422
+1,mutex awesome,7,4000,1411901
+1,clh homequeue,7,4000,722439
+1,clh awesome,7,4000,1422010
+1,serial,7,8000,104832
+1,lockfree,7,8000,361946
+1,mutex homequeue,7,8000,361603
+1,mutex awesome,7,8000,720230
+1,clh homequeue,7,8000,364662
+1,clh awesome,7,8000,721157
+1,serial,13,1000,799266
+1,lockfree,13,1000,3052803
+1,mutex homequeue,13,1000,3495732
+1,mutex awesome,13,1000,2544265
+1,clh homequeue,13,1000,3041155
+1,clh awesome,13,1000,2058602
+1,serial,13,2000,412048
+1,lockfree,13,2000,2647493
+1,mutex homequeue,13,2000,2715910
+1,mutex awesome,13,2000,3276791
+1,clh homequeue,13,2000,2710263
+1,clh awesome,13,2000,2692372
+1,serial,13,4000,209196
+1,lockfree,13,4000,1279888
+1,mutex homequeue,13,4000,1389247
+1,mutex awesome,13,4000,2596034
+1,clh homequeue,13,4000,1398128
+1,clh awesome,13,4000,2610657
+1,serial,13,8000,104988
+1,lockfree,13,8000,644026
+1,mutex homequeue,13,8000,697395
+1,mutex awesome,13,8000,1343947
+1,clh homequeue,13,8000,705390
+1,clh awesome,13,8000,1339077
+1,serial,27,1000,798471
+1,lockfree,27,1000,1339284
+1,mutex homequeue,27,1000,551636
+1,mutex awesome,27,1000,2319421
+1,clh homequeue,27,1000,903567
+1,clh awesome,27,1000,1621296
+1,serial,27,2000,411237
+1,lockfree,27,2000,676117
+1,mutex homequeue,27,2000,863367
+1,mutex awesome,27,2000,2223527
+1,clh homequeue,27,2000,204001
+1,clh awesome,27,2000,2244027
+1,serial,27,4000,209196
+1,lockfree,27,4000,311401
+1,mutex homequeue,27,4000,437515
+1,mutex awesome,27,4000,2015223
+1,clh homequeue,27,4000,385771
+1,clh awesome,27,4000,1840619
+1,serial,27,8000,105084
+1,lockfree,27,8000,189448
+1,mutex homequeue,27,8000,75613
+1,mutex awesome,27,8000,1036478
+1,clh homequeue,27,8000,255027
+1,clh awesome,27,8000,1244705
+2,serial,1,1000,800023
+2,lockfree,1,1000,766318
+2,mutex homequeue,1,1000,734328
+2,mutex awesome,1,1000,735785
+2,clh homequeue,1,1000,759181
+2,clh awesome,1,1000,759221
+2,serial,1,2000,411922
+2,lockfree,1,2000,402911
+2,mutex homequeue,1,2000,393524
+2,mutex awesome,1,2000,393181
+2,clh homequeue,1,2000,400898
+2,clh awesome,1,2000,400990
+2,serial,1,4000,209244
+2,lockfree,1,4000,206910
+2,mutex homequeue,1,4000,204374
+2,mutex awesome,1,4000,204184
+2,clh homequeue,1,4000,206383
+2,clh awesome,1,4000,206467
+2,serial,1,8000,105505
+2,lockfree,1,8000,104913
+2,mutex homequeue,1,8000,104276
+2,mutex awesome,1,8000,104276
+2,clh homequeue,1,8000,104781
+2,clh awesome,1,8000,104811
+2,serial,2,1000,800286
+2,lockfree,2,1000,1359508
+2,mutex homequeue,2,1000,1297950
+2,mutex awesome,2,1000,1437232
+2,clh homequeue,2,1000,1348112
+2,clh awesome,2,1000,1502924
+2,serial,2,2000,411942
+2,lockfree,2,2000,706988
+2,mutex homequeue,2,2000,692928
+2,mutex awesome,2,2000,779208
+2,clh homequeue,2,2000,698483
+2,clh awesome,2,2000,796549
+2,serial,2,4000,209330
+2,lockfree,2,4000,362066
+2,mutex homequeue,2,4000,356436
+2,mutex awesome,2,4000,407322
+2,clh homequeue,2,4000,360832
+2,clh awesome,2,4000,410488
+2,serial,2,8000,105364
+2,lockfree,2,8000,183757
+2,mutex homequeue,2,8000,182116
+2,mutex awesome,2,8000,206253
+2,clh homequeue,2,8000,181815
+2,clh awesome,2,8000,209015
+2,serial,3,1000,800907
+2,lockfree,3,1000,1948381
+2,mutex homequeue,3,1000,1857022
+2,mutex awesome,3,1000,2134963
+2,clh homequeue,3,1000,1961711
+2,clh awesome,3,1000,2217893
+2,serial,3,2000,412182
+2,lockfree,3,2000,1017418
+2,mutex homequeue,3,2000,995269
+2,mutex awesome,3,2000,1163371
+2,clh homequeue,3,2000,1022078
+2,clh awesome,3,2000,1193356
+2,serial,3,4000,209466
+2,lockfree,3,4000,517242
+2,mutex homequeue,3,4000,509881
+2,mutex awesome,3,4000,607458
+2,clh homequeue,3,4000,524622
+2,clh awesome,3,4000,616082
+2,serial,3,8000,105234
+2,lockfree,3,8000,262377
+2,mutex homequeue,3,8000,260952
+2,mutex awesome,3,8000,310232
+2,clh homequeue,3,8000,264776
+2,clh awesome,3,8000,312936
+2,serial,7,1000,799505
+2,lockfree,7,1000,2885533
+2,mutex homequeue,7,1000,2790490
+2,mutex awesome,7,1000,3660945
+2,clh homequeue,7,1000,2920247
+2,clh awesome,7,1000,3278652
+2,serial,7,2000,411103
+2,lockfree,7,2000,1452251
+2,mutex homequeue,7,2000,1463452
+2,mutex awesome,7,2000,2639083
+2,clh homequeue,7,2000,1495805
+2,clh awesome,7,2000,2720066
+2,serial,7,4000,208670
+2,lockfree,7,4000,753245
+2,mutex homequeue,7,4000,749501
+2,mutex awesome,7,4000,1403373
+2,clh homequeue,7,4000,755824
+2,clh awesome,7,4000,1421336
+2,serial,7,8000,104937
+2,lockfree,7,8000,375161
+2,mutex homequeue,7,8000,374266
+2,mutex awesome,7,8000,719440
+2,clh homequeue,7,8000,382073
+2,clh awesome,7,8000,725871
+2,serial,13,1000,799721
+2,lockfree,13,1000,2944071
+2,mutex homequeue,13,1000,3555513
+2,mutex awesome,13,1000,2683227
+2,clh homequeue,13,1000,3114298
+2,clh awesome,13,1000,2119163
+2,serial,13,2000,412100
+2,lockfree,13,2000,2455046
+2,mutex homequeue,13,2000,2799528
+2,mutex awesome,13,2000,3176538
+2,clh homequeue,13,2000,2704560
+2,clh awesome,13,2000,2686619
+2,serial,13,4000,209573
+2,lockfree,13,4000,1270148
+2,mutex homequeue,13,4000,1431141
+2,mutex awesome,13,4000,2600209
+2,clh homequeue,13,4000,1443506
+2,clh awesome,13,4000,2609515
+2,serial,13,8000,105092
+2,lockfree,13,8000,712141
+2,mutex homequeue,13,8000,724005
+2,mutex awesome,13,8000,1342814
+2,clh homequeue,13,8000,726309
+2,clh awesome,13,8000,1343579
+2,serial,27,1000,798498
+2,lockfree,27,1000,1385226
+2,mutex homequeue,27,1000,1763804
+2,mutex awesome,27,1000,2282300
+2,clh homequeue,27,1000,1836711
+2,clh awesome,27,1000,1520987
+2,serial,27,2000,412587
+2,lockfree,27,2000,259023
+2,mutex homequeue,27,2000,215414
+2,mutex awesome,27,2000,2196978
+2,clh homequeue,27,2000,836411
+2,clh awesome,27,2000,1661806
+2,serial,27,4000,209655
+2,lockfree,27,4000,291585
+2,mutex homequeue,27,4000,279412
+2,mutex awesome,27,4000,2210553
+2,clh homequeue,27,4000,60302
+2,clh awesome,27,4000,2353776
+2,serial,27,8000,105678
+2,lockfree,27,8000,174230
+2,mutex homequeue,27,8000,183264
+2,mutex awesome,27,8000,879527
+2,clh homequeue,27,8000,218389
+2,clh awesome,27,8000,976007
+3,serial,1,1000,799888
+3,lockfree,1,1000,767563
+3,mutex homequeue,1,1000,732917
+3,mutex awesome,1,1000,735062
+3,clh homequeue,1,1000,757744
+3,clh awesome,1,1000,758362
+3,serial,1,2000,411856
+3,lockfree,1,2000,403417
+3,mutex homequeue,1,2000,393423
+3,mutex awesome,1,2000,393714
+3,clh homequeue,1,2000,400905
+3,clh awesome,1,2000,400856
+3,serial,1,4000,209232
+3,lockfree,1,4000,207021
+3,mutex homequeue,1,4000,204187
+3,mutex awesome,1,4000,204310
+3,clh homequeue,1,4000,206352
+3,clh awesome,1,4000,206384
+3,serial,1,8000,105501
+3,lockfree,1,8000,104936
+3,mutex homequeue,1,8000,104247
+3,mutex awesome,1,8000,104224
+3,clh homequeue,1,8000,104819
+3,clh awesome,1,8000,104827
+3,serial,2,1000,800746
+3,lockfree,2,1000,1299327
+3,mutex homequeue,2,1000,1254402
+3,mutex awesome,2,1000,1414507
+3,clh homequeue,2,1000,1286930
+3,clh awesome,2,1000,1491559
+3,serial,2,2000,412026
+3,lockfree,2,2000,671708
+3,mutex homequeue,2,2000,661515
+3,mutex awesome,2,2000,776123
+3,clh homequeue,2,2000,678799
+3,clh awesome,2,2000,784253
+3,serial,2,4000,209268
+3,lockfree,2,4000,343705
+3,mutex homequeue,2,4000,339751
+3,mutex awesome,2,4000,405741
+3,clh homequeue,2,4000,341254
+3,clh awesome,2,4000,409736
+3,serial,2,8000,105262
+3,lockfree,2,8000,172186
+3,mutex homequeue,2,8000,173763
+3,mutex awesome,2,8000,207625
+3,clh homequeue,2,8000,174337
+3,clh awesome,2,8000,208852
+3,serial,3,1000,800718
+3,lockfree,3,1000,1937647
+3,mutex homequeue,3,1000,1841878
+3,mutex awesome,3,1000,2136528
+3,clh homequeue,3,1000,1932479
+3,clh awesome,3,1000,2220455
+3,serial,3,2000,412023
+3,lockfree,3,2000,1007810
+3,mutex homequeue,3,2000,992803
+3,mutex awesome,3,2000,1162189
+3,clh homequeue,3,2000,1010051
+3,clh awesome,3,2000,1190302
+3,serial,3,4000,209349
+3,lockfree,3,4000,514370
+3,mutex homequeue,3,4000,507755
+3,mutex awesome,3,4000,608194
+3,clh homequeue,3,4000,516448
+3,clh awesome,3,4000,615364
+3,serial,3,8000,105186
+3,lockfree,3,8000,259995
+3,mutex homequeue,3,8000,258329
+3,mutex awesome,3,8000,311609
+3,clh homequeue,3,8000,261626
+3,clh awesome,3,8000,312439
+3,serial,7,1000,799974
+3,lockfree,7,1000,2667643
+3,mutex homequeue,7,1000,2766912
+3,mutex awesome,7,1000,3703318
+3,clh homequeue,7,1000,2778808
+3,clh awesome,7,1000,3227468
+3,serial,7,2000,411243
+3,lockfree,7,2000,1425314
+3,mutex homequeue,7,2000,1418111
+3,mutex awesome,7,2000,2688734
+3,clh homequeue,7,2000,1424561
+3,clh awesome,7,2000,2687054
+3,serial,7,4000,208502
+3,lockfree,7,4000,723619
+3,mutex homequeue,7,4000,720413
+3,mutex awesome,7,4000,1405054
+3,clh homequeue,7,4000,720103
+3,clh awesome,7,4000,1422666
+3,serial,7,8000,104958
+3,lockfree,7,8000,363119
+3,mutex homequeue,7,8000,363431
+3,mutex awesome,7,8000,720305
+3,clh homequeue,7,8000,362805
+3,clh awesome,7,8000,725171
+3,serial,13,1000,800696
+3,lockfree,13,1000,3000835
+3,mutex homequeue,13,1000,3552036
+3,mutex awesome,13,1000,2801931
+3,clh homequeue,13,1000,3184245
+3,clh awesome,13,1000,2060666
+3,serial,13,2000,411866
+3,lockfree,13,2000,2614739
+3,mutex homequeue,13,2000,2746644
+3,mutex awesome,13,2000,3306323
+3,clh homequeue,13,2000,2738927
+3,clh awesome,13,2000,2623964
+3,serial,13,4000,209287
+3,lockfree,13,4000,1292917
+3,mutex homequeue,13,4000,1396010
+3,mutex awesome,13,4000,2607280
+3,clh homequeue,13,4000,1408622
+3,clh awesome,13,4000,2612004
+3,serial,13,8000,104910
+3,lockfree,13,8000,696499
+3,mutex homequeue,13,8000,708398
+3,mutex awesome,13,8000,1341508
+3,clh homequeue,13,8000,710996
+3,clh awesome,13,8000,1343256
+3,serial,27,1000,798255
+3,lockfree,27,1000,759854
+3,mutex homequeue,27,1000,14761
+3,mutex awesome,27,1000,2131585
+3,clh homequeue,27,1000,1287866
+3,clh awesome,27,1000,1952462
+3,serial,27,2000,411885
+3,lockfree,27,2000,645089
+3,mutex homequeue,27,2000,647353
+3,mutex awesome,27,2000,2162400
+3,clh homequeue,27,2000,376677
+3,clh awesome,27,2000,2469418
+3,serial,27,4000,209520
+3,lockfree,27,4000,552522
+3,mutex homequeue,27,4000,396509
+3,mutex awesome,27,4000,2056590
+3,clh homequeue,27,4000,179365
+3,clh awesome,27,4000,2220906
+3,serial,27,8000,105597
+3,lockfree,27,8000,159731
+3,mutex homequeue,27,8000,204987
+3,mutex awesome,27,8000,1128034
+3,clh homequeue,27,8000,171257
+3,clh awesome,27,8000,845443
+4,serial,1,1000,799968
+4,lockfree,1,1000,765943
+4,mutex homequeue,1,1000,735023
+4,mutex awesome,1,1000,732535
+4,clh homequeue,1,1000,757964
+4,clh awesome,1,1000,758333
+4,serial,1,2000,411788
+4,lockfree,1,2000,402788
+4,mutex homequeue,1,2000,393761
+4,mutex awesome,1,2000,393229
+4,clh homequeue,1,2000,401072
+4,clh awesome,1,2000,401097
+4,serial,1,4000,209234
+4,lockfree,1,4000,206854
+4,mutex homequeue,1,4000,204493
+4,mutex awesome,1,4000,204396
+4,clh homequeue,1,4000,206544
+4,clh awesome,1,4000,206669
+4,serial,1,8000,105514
+4,lockfree,1,8000,104932
+4,mutex homequeue,1,8000,104287
+4,mutex awesome,1,8000,104239
+4,clh homequeue,1,8000,104772
+4,clh awesome,1,8000,104797
+4,serial,2,1000,800286
+4,lockfree,2,1000,1413499
+4,mutex homequeue,2,1000,1330739
+4,mutex awesome,2,1000,1447586
+4,clh homequeue,2,1000,1401430
+4,clh awesome,2,1000,1503443
+4,serial,2,2000,411814
+4,lockfree,2,2000,740347
+4,mutex homequeue,2,2000,717174
+4,mutex awesome,2,2000,783094
+4,clh homequeue,2,2000,734912
+4,clh awesome,2,2000,796218
+4,serial,2,4000,209290
+4,lockfree,2,4000,376849
+4,mutex homequeue,2,4000,371942
+4,mutex awesome,2,4000,407947
+4,clh homequeue,2,4000,375884
+4,clh awesome,2,4000,411244
+4,serial,2,8000,105308
+4,lockfree,2,8000,191253
+4,mutex homequeue,2,8000,188316
+4,mutex awesome,2,8000,208181
+4,clh homequeue,2,8000,190933
+4,clh awesome,2,8000,209156
+4,serial,3,1000,799752
+4,lockfree,3,1000,1404165
+4,mutex homequeue,3,1000,1355129
+4,mutex awesome,3,1000,2062572
+4,clh homequeue,3,1000,1417469
+4,clh awesome,3,1000,2150023
+4,serial,3,2000,411807
+4,lockfree,3,2000,732833
+4,mutex homequeue,3,2000,718720
+4,mutex awesome,3,2000,1149263
+4,clh homequeue,3,2000,733566
+4,clh awesome,3,2000,1166706
+4,serial,3,4000,209361
+4,lockfree,3,4000,370719
+4,mutex homequeue,3,4000,365964
+4,mutex awesome,3,4000,607247
+4,clh homequeue,3,4000,369534
+4,clh awesome,3,4000,611865
+4,serial,3,8000,105312
+4,lockfree,3,8000,186478
+4,mutex homequeue,3,8000,186282
+4,mutex awesome,3,8000,310601
+4,clh homequeue,3,8000,188208
+4,clh awesome,3,8000,312383
+4,serial,7,1000,799771
+4,lockfree,7,1000,2839724
+4,mutex homequeue,7,1000,2766225
+4,mutex awesome,7,1000,3679849
+4,clh homequeue,7,1000,2874969
+4,clh awesome,7,1000,3290613
+4,serial,7,2000,411551
+4,lockfree,7,2000,1414827
+4,mutex homequeue,7,2000,1441337
+4,mutex awesome,7,2000,2645825
+4,clh homequeue,7,2000,1484001
+4,clh awesome,7,2000,2669650
+4,serial,7,4000,208831
+4,lockfree,7,4000,743051
+4,mutex homequeue,7,4000,739779
+4,mutex awesome,7,4000,1403527
+4,clh homequeue,7,4000,752151
+4,clh awesome,7,4000,1424912
+4,serial,7,8000,105210
+4,lockfree,7,8000,375528
+4,mutex homequeue,7,8000,373821
+4,mutex awesome,7,8000,721112
+4,clh homequeue,7,8000,379803
+4,clh awesome,7,8000,723365
+4,serial,13,1000,800540
+4,lockfree,13,1000,2987169
+4,mutex homequeue,13,1000,3488376
+4,mutex awesome,13,1000,2748901
+4,clh homequeue,13,1000,3129819
+4,clh awesome,13,1000,2125329
+4,serial,13,2000,412191
+4,lockfree,13,2000,2531735
+4,mutex homequeue,13,2000,2781820
+4,mutex awesome,13,2000,3364621
+4,clh homequeue,13,2000,2734539
+4,clh awesome,13,2000,2571623
+4,serial,13,4000,209547
+4,lockfree,13,4000,1392293
+4,mutex homequeue,13,4000,1422000
+4,mutex awesome,13,4000,2603568
+4,clh homequeue,13,4000,1427395
+4,clh awesome,13,4000,2611962
+4,serial,13,8000,104858
+4,lockfree,13,8000,655256
+4,mutex homequeue,13,8000,720905
+4,mutex awesome,13,8000,1341522
+4,clh homequeue,13,8000,723699
+4,clh awesome,13,8000,1339428
+4,serial,27,1000,798795
+4,lockfree,27,1000,1278949
+4,mutex homequeue,27,1000,1427070
+4,mutex awesome,27,1000,1866936
+4,clh homequeue,27,1000,1450198
+4,clh awesome,27,1000,895416
+4,serial,27,2000,411669
+4,lockfree,27,2000,490898
+4,mutex homequeue,27,2000,470545
+4,mutex awesome,27,2000,2851325
+4,clh homequeue,27,2000,340743
+4,clh awesome,27,2000,1221840
+4,serial,27,4000,208494
+4,lockfree,27,4000,462792
+4,mutex homequeue,27,4000,167489
+4,mutex awesome,27,4000,2226523
+4,clh homequeue,27,4000,285373
+4,clh awesome,27,4000,1434239
+4,serial,27,8000,104814
+4,lockfree,27,8000,193467
+4,mutex homequeue,27,8000,107786
+4,mutex awesome,27,8000,940552
+4,clh homequeue,27,8000,121285
+4,clh awesome,27,8000,1119294
+5,serial,1,1000,799857
+5,lockfree,1,1000,765709
+5,mutex homequeue,1,1000,735356
+5,mutex awesome,1,1000,732765
+5,clh homequeue,1,1000,757634
+5,clh awesome,1,1000,758253
+5,serial,1,2000,411843
+5,lockfree,1,2000,403212
+5,mutex homequeue,1,2000,393499
+5,mutex awesome,1,2000,393498
+5,clh homequeue,1,2000,401601
+5,clh awesome,1,2000,401535
+5,serial,1,4000,209228
+5,lockfree,1,4000,207035
+5,mutex homequeue,1,4000,204379
+5,mutex awesome,1,4000,204361
+5,clh homequeue,1,4000,206391
+5,clh awesome,1,4000,206483
+5,serial,1,8000,105488
+5,lockfree,1,8000,104910
+5,mutex homequeue,1,8000,104258
+5,mutex awesome,1,8000,104253
+5,clh homequeue,1,8000,104803
+5,clh awesome,1,8000,104833
+5,serial,2,1000,799966
+5,lockfree,2,1000,1026205
+5,mutex homequeue,2,1000,982830
+5,mutex awesome,2,1000,1379886
+5,clh homequeue,2,1000,1012919
+5,clh awesome,2,1000,1437747
+5,serial,2,2000,411664
+5,lockfree,2,2000,527456
+5,mutex homequeue,2,2000,516055
+5,mutex awesome,2,2000,766184
+5,clh homequeue,2,2000,526001
+5,clh awesome,2,2000,781897
+5,serial,2,4000,209320
+5,lockfree,2,4000,268763
+5,mutex homequeue,2,4000,265793
+5,mutex awesome,2,4000,402424
+5,clh homequeue,2,4000,265740
+5,clh awesome,2,4000,406523
+5,serial,2,8000,105276
+5,lockfree,2,8000,135221
+5,mutex homequeue,2,8000,134345
+5,mutex awesome,2,8000,206672
+5,clh homequeue,2,8000,134974
+5,clh awesome,2,8000,207776
+5,serial,3,1000,800736
+5,lockfree,3,1000,1315697
+5,mutex homequeue,3,1000,1273391
+5,mutex awesome,3,1000,2080522
+5,clh homequeue,3,1000,1315679
+5,clh awesome,3,1000,2141498
+5,serial,3,2000,412116
+5,lockfree,3,2000,666875
+5,mutex homequeue,3,2000,653194
+5,mutex awesome,3,2000,1155468
+5,clh homequeue,3,2000,678311
+5,clh awesome,3,2000,1172859
+5,serial,3,4000,209208
+5,lockfree,3,4000,342295
+5,mutex homequeue,3,4000,339080
+5,mutex awesome,3,4000,604571
+5,clh homequeue,3,4000,344450
+5,clh awesome,3,4000,610058
+5,serial,3,8000,105060
+5,lockfree,3,8000,172265
+5,mutex homequeue,3,8000,172238
+5,mutex awesome,3,8000,310586
+5,clh homequeue,3,8000,173657
+5,clh awesome,3,8000,312196
+5,serial,7,1000,799967
+5,lockfree,7,1000,2995678
+5,mutex homequeue,7,1000,2860293
+5,mutex awesome,7,1000,3726143
+5,clh homequeue,7,1000,2960626
+5,clh awesome,7,1000,3225092
+5,serial,7,2000,411558
+5,lockfree,7,2000,1511390
+5,mutex homequeue,7,2000,1493639
+5,mutex awesome,7,2000,2653998
+5,clh homequeue,7,2000,1537376
+5,clh awesome,7,2000,2694960
+5,serial,7,4000,208950
+5,lockfree,7,4000,776585
+5,mutex homequeue,7,4000,765511
+5,mutex awesome,7,4000,1400902
+5,clh homequeue,7,4000,778466
+5,clh awesome,7,4000,1411325
+5,serial,7,8000,105105
+5,lockfree,7,8000,388129
+5,mutex homequeue,7,8000,387184
+5,mutex awesome,7,8000,722182
+5,clh homequeue,7,8000,391494
+5,clh awesome,7,8000,726086
+5,serial,13,1000,800475
+5,lockfree,13,1000,3084126
+5,mutex homequeue,13,1000,3581544
+5,mutex awesome,13,1000,2730959
+5,clh homequeue,13,1000,3157303
+5,clh awesome,13,1000,2069548
+5,serial,13,2000,412425
+5,lockfree,13,2000,2598942
+5,mutex homequeue,13,2000,2682123
+5,mutex awesome,13,2000,3367986
+5,clh homequeue,13,2000,2692578
+5,clh awesome,13,2000,2639293
+5,serial,13,4000,209586
+5,lockfree,13,4000,1397625
+5,mutex homequeue,13,4000,1406790
+5,mutex awesome,13,4000,2538692
+5,clh homequeue,13,4000,1417438
+5,clh awesome,13,4000,2609684
+5,serial,13,8000,105118
+5,lockfree,13,8000,676968
+5,mutex homequeue,13,8000,714612
+5,mutex awesome,13,8000,1342149
+5,clh homequeue,13,8000,705593
+5,clh awesome,13,8000,1342053
+5,serial,27,1000,796662
+5,lockfree,27,1000,1154383
+5,mutex homequeue,27,1000,571649
+5,mutex awesome,27,1000,2263391
+5,clh homequeue,27,1000,878077
+5,clh awesome,27,1000,1418376
+5,serial,27,2000,410967
+5,lockfree,27,2000,401680
+5,mutex homequeue,27,2000,599515
+5,mutex awesome,27,2000,2369433
+5,clh homequeue,27,2000,738266
+5,clh awesome,27,2000,1735701
+5,serial,27,4000,209061
+5,lockfree,27,4000,443620
+5,mutex homequeue,27,4000,45361
+5,mutex awesome,27,4000,1806540
+5,clh homequeue,27,4000,186281
+5,clh awesome,27,4000,999873
+5,serial,27,8000,105678
+5,lockfree,27,8000,81201
+5,mutex homequeue,27,8000,107308
+5,mutex awesome,27,8000,1071543
+5,clh homequeue,27,8000,78729
+5,clh awesome,27,8000,763869
+6,serial,1,1000,800017
+6,lockfree,1,1000,767006
+6,mutex homequeue,1,1000,734553
+6,mutex awesome,1,1000,735550
+6,clh homequeue,1,1000,757978
+6,clh awesome,1,1000,758870
+6,serial,1,2000,411901
+6,lockfree,1,2000,403108
+6,mutex homequeue,1,2000,393466
+6,mutex awesome,1,2000,393264
+6,clh homequeue,1,2000,401014
+6,clh awesome,1,2000,400597
+6,serial,1,4000,209220
+6,lockfree,1,4000,206997
+6,mutex homequeue,1,4000,204214
+6,mutex awesome,1,4000,204321
+6,clh homequeue,1,4000,206390
+6,clh awesome,1,4000,206438
+6,serial,1,8000,105511
+6,lockfree,1,8000,104943
+6,mutex homequeue,1,8000,104290
+6,mutex awesome,1,8000,104223
+6,clh homequeue,1,8000,104813
+6,clh awesome,1,8000,104819
+6,serial,2,1000,800152
+6,lockfree,2,1000,953564
+6,mutex homequeue,2,1000,911068
+6,mutex awesome,2,1000,1377414
+6,clh homequeue,2,1000,944166
+6,clh awesome,2,1000,1434675
+6,serial,2,2000,411932
+6,lockfree,2,2000,490680
+6,mutex homequeue,2,2000,480668
+6,mutex awesome,2,2000,762150
+6,clh homequeue,2,2000,489410
+6,clh awesome,2,2000,780183
+6,serial,2,4000,209352
+6,lockfree,2,4000,249570
+6,mutex homequeue,2,4000,246924
+6,mutex awesome,2,4000,402517
+6,clh homequeue,2,4000,249127
+6,clh awesome,2,4000,404707
+6,serial,2,8000,105372
+6,lockfree,2,8000,126151
+6,mutex homequeue,2,8000,125604
+6,mutex awesome,2,8000,207532
+6,clh homequeue,2,8000,126458
+6,clh awesome,2,8000,208247
+6,serial,3,1000,799257
+6,lockfree,3,1000,1463020
+6,mutex homequeue,3,1000,1394042
+6,mutex awesome,3,1000,2142943
+6,clh homequeue,3,1000,1439638
+6,clh awesome,3,1000,2148977
+6,serial,3,2000,412194
+6,lockfree,3,2000,744391
+6,mutex homequeue,3,2000,727527
+6,mutex awesome,3,2000,1161994
+6,clh homequeue,3,2000,746212
+6,clh awesome,3,2000,1185778
+6,serial,3,4000,209487
+6,lockfree,3,4000,380845
+6,mutex homequeue,3,4000,374299
+6,mutex awesome,3,4000,603772
+6,clh homequeue,3,4000,379701
+6,clh awesome,3,4000,610700
+6,serial,3,8000,105000
+6,lockfree,3,8000,192541
+6,mutex homequeue,3,8000,190234
+6,mutex awesome,3,8000,308951
+6,clh homequeue,3,8000,192322
+6,clh awesome,3,8000,310728
+6,serial,7,1000,800779
+6,lockfree,7,1000,2952527
+6,mutex homequeue,7,1000,2926863
+6,mutex awesome,7,1000,3792513
+6,clh homequeue,7,1000,2782641
+6,clh awesome,7,1000,3499025
+6,serial,7,2000,411096
+6,lockfree,7,2000,1494646
+6,mutex homequeue,7,2000,1553260
+6,mutex awesome,7,2000,2687658
+6,clh homequeue,7,2000,1560874
+6,clh awesome,7,2000,2716196
+6,serial,7,4000,208516
+6,lockfree,7,4000,787227
+6,mutex homequeue,7,4000,788847
+6,mutex awesome,7,4000,1411875
+6,clh homequeue,7,4000,792959
+6,clh awesome,7,4000,1417767
+6,serial,7,8000,104930
+6,lockfree,7,8000,396383
+6,mutex homequeue,7,8000,397876
+6,mutex awesome,7,8000,721818
+6,clh homequeue,7,8000,397631
+6,clh awesome,7,8000,721387
+6,serial,13,1000,800306
+6,lockfree,13,1000,3109522
+6,mutex homequeue,13,1000,3554036
+6,mutex awesome,13,1000,2766305
+6,clh homequeue,13,1000,3126078
+6,clh awesome,13,1000,2080556
+6,serial,13,2000,412087
+6,lockfree,13,2000,2475251
+6,mutex homequeue,13,2000,2766503
+6,mutex awesome,13,2000,3349392
+6,clh homequeue,13,2000,2749935
+6,clh awesome,13,2000,2695972
+6,serial,13,4000,209300
+6,lockfree,13,4000,1353432
+6,mutex homequeue,13,4000,1414308
+6,mutex awesome,13,4000,2603726
+6,clh homequeue,13,4000,1423406
+6,clh awesome,13,4000,2616295
+6,serial,13,8000,104923
+6,lockfree,13,8000,692253
+6,mutex homequeue,13,8000,715668
+6,mutex awesome,13,8000,1344687
+6,clh homequeue,13,8000,717726
+6,clh awesome,13,8000,1344552
+6,serial,27,1000,797796
+6,lockfree,27,1000,1287406
+6,mutex homequeue,27,1000,1467345
+6,mutex awesome,27,1000,2060442
+6,clh homequeue,27,1000,1109220
+6,clh awesome,27,1000,745858
+6,serial,27,2000,411021
+6,lockfree,27,2000,1043685
+6,mutex homequeue,27,2000,381647
+6,mutex awesome,27,2000,2652601
+6,clh homequeue,27,2000,487526
+6,clh awesome,27,2000,1535947
+6,serial,27,4000,209088
+6,lockfree,27,4000,414628
+6,mutex homequeue,27,4000,169611
+6,mutex awesome,27,4000,1838539
+6,clh homequeue,27,4000,295656
+6,clh awesome,27,4000,2352260
+6,serial,27,8000,104895
+6,lockfree,27,8000,132424
+6,mutex homequeue,27,8000,248572
+6,mutex awesome,27,8000,827637
+6,clh homequeue,27,8000,152375
+6,clh awesome,27,8000,816000
+7,serial,1,1000,793432
+7,lockfree,1,1000,767250
+7,mutex homequeue,1,1000,733167
+7,mutex awesome,1,1000,732535
+7,clh homequeue,1,1000,758631
+7,clh awesome,1,1000,758693
+7,serial,1,2000,411875
+7,lockfree,1,2000,403560
+7,mutex homequeue,1,2000,393863
+7,mutex awesome,1,2000,393344
+7,clh homequeue,1,2000,400700
+7,clh awesome,1,2000,401347
+7,serial,1,4000,209220
+7,lockfree,1,4000,206932
+7,mutex homequeue,1,4000,204214
+7,mutex awesome,1,4000,204274
+7,clh homequeue,1,4000,206465
+7,clh awesome,1,4000,206465
+7,serial,1,8000,105472
+7,lockfree,1,8000,104939
+7,mutex homequeue,1,8000,104313
+7,mutex awesome,1,8000,104271
+7,clh homequeue,1,8000,104811
+7,clh awesome,1,8000,104872
+7,serial,2,1000,800852
+7,lockfree,2,1000,1135777
+7,mutex homequeue,2,1000,1088417
+7,mutex awesome,2,1000,1400515
+7,clh homequeue,2,1000,1138730
+7,clh awesome,2,1000,1459543
+7,serial,2,2000,411782
+7,lockfree,2,2000,595458
+7,mutex homequeue,2,2000,568940
+7,mutex awesome,2,2000,769794
+7,clh homequeue,2,2000,592059
+7,clh awesome,2,2000,786328
+7,serial,2,4000,209284
+7,lockfree,2,4000,298749
+7,mutex homequeue,2,4000,298829
+7,mutex awesome,2,4000,403920
+7,clh homequeue,2,4000,301585
+7,clh awesome,2,4000,408575
+7,serial,2,8000,105304
+7,lockfree,2,8000,152898
+7,mutex homequeue,2,8000,152181
+7,mutex awesome,2,8000,206113
+7,clh homequeue,2,8000,151766
+7,clh awesome,2,8000,208133
+7,serial,3,1000,800151
+7,lockfree,3,1000,1492516
+7,mutex homequeue,3,1000,1411351
+7,mutex awesome,3,1000,2088235
+7,clh homequeue,3,1000,1464678
+7,clh awesome,3,1000,2163627
+7,serial,3,2000,412029
+7,lockfree,3,2000,757763
+7,mutex homequeue,3,2000,737186
+7,mutex awesome,3,2000,1154935
+7,clh homequeue,3,2000,761037
+7,clh awesome,3,2000,1174604
+7,serial,3,4000,209340
+7,lockfree,3,4000,386110
+7,mutex homequeue,3,4000,381480
+7,mutex awesome,3,4000,605850
+7,clh homequeue,3,4000,388029
+7,clh awesome,3,4000,612051
+7,serial,3,8000,105075
+7,lockfree,3,8000,195212
+7,mutex homequeue,3,8000,194081
+7,mutex awesome,3,8000,309595
+7,clh homequeue,3,8000,195230
+7,clh awesome,3,8000,312298
+7,serial,7,1000,798791
+7,lockfree,7,1000,3270749
+7,mutex homequeue,7,1000,3197984
+7,mutex awesome,7,1000,3694400
+7,clh homequeue,7,1000,3234933
+7,clh awesome,7,1000,3207346
+7,serial,7,2000,411005
+7,lockfree,7,2000,1692927
+7,mutex homequeue,7,2000,1676835
+7,mutex awesome,7,2000,2652235
+7,clh homequeue,7,2000,1728444
+7,clh awesome,7,2000,2711630
+7,serial,7,4000,208677
+7,lockfree,7,4000,876045
+7,mutex homequeue,7,4000,862908
+7,mutex awesome,7,4000,1403592
+7,clh homequeue,7,4000,885270
+7,clh awesome,7,4000,1420043
+7,serial,7,8000,104846
+7,lockfree,7,8000,441379
+7,mutex homequeue,7,8000,438363
+7,mutex awesome,7,8000,720810
+7,clh homequeue,7,8000,441775
+7,clh awesome,7,8000,725488
+7,serial,13,1000,798915
+7,lockfree,13,1000,2986560
+7,mutex homequeue,13,1000,3651715
+7,mutex awesome,13,1000,2747294
+7,clh homequeue,13,1000,2925487
+7,clh awesome,13,1000,2091749
+7,serial,13,2000,412152
+7,lockfree,13,2000,2247590
+7,mutex homequeue,13,2000,2634861
+7,mutex awesome,13,2000,3296859
+7,clh homequeue,13,2000,2602419
+7,clh awesome,13,2000,2629419
+7,serial,13,4000,209326
+7,lockfree,13,4000,1269648
+7,mutex homequeue,13,4000,1346119
+7,mutex awesome,13,4000,2596816
+7,clh homequeue,13,4000,1350833
+7,clh awesome,13,4000,2611955
+7,serial,13,8000,104897
+7,lockfree,13,8000,546435
+7,mutex homequeue,13,8000,678628
+7,mutex awesome,13,8000,1339392
+7,clh homequeue,13,8000,676315
+7,clh awesome,13,8000,1344078
+7,serial,27,1000,797715
+7,lockfree,27,1000,1260692
+7,mutex homequeue,27,1000,1068918
+7,mutex awesome,27,1000,2363932
+7,clh homequeue,27,1000,353848
+7,clh awesome,27,1000,1927645
+7,serial,27,2000,411939
+7,lockfree,27,2000,489033
+7,mutex homequeue,27,2000,432684
+7,mutex awesome,27,2000,2275761
+7,clh homequeue,27,2000,227097
+7,clh awesome,27,2000,1065992
+7,serial,27,4000,209223
+7,lockfree,27,4000,390418
+7,mutex homequeue,27,4000,495960
+7,mutex awesome,27,4000,1708286
+7,clh homequeue,27,4000,237696
+7,clh awesome,27,4000,1979443
+7,serial,27,8000,105435
+7,lockfree,27,8000,201511
+7,mutex homequeue,27,8000,59122
+7,mutex awesome,27,8000,1072431
+7,clh homequeue,27,8000,31011
+7,clh awesome,27,8000,892956
+8,serial,1,1000,799100
+8,lockfree,1,1000,767018
+8,mutex homequeue,1,1000,733539
+8,mutex awesome,1,1000,733342
+8,clh homequeue,1,1000,756947
+8,clh awesome,1,1000,758340
+8,serial,1,2000,411883
+8,lockfree,1,2000,402975
+8,mutex homequeue,1,2000,392950
+8,mutex awesome,1,2000,393110
+8,clh homequeue,1,2000,400856
+8,clh awesome,1,2000,400898
+8,serial,1,4000,209227
+8,lockfree,1,4000,207021
+8,mutex homequeue,1,4000,204207
+8,mutex awesome,1,4000,204401
+8,clh homequeue,1,4000,206374
+8,clh awesome,1,4000,206510
+8,serial,1,8000,105501
+8,lockfree,1,8000,104916
+8,mutex homequeue,1,8000,104250
+8,mutex awesome,1,8000,104249
+8,clh homequeue,1,8000,104760
+8,clh awesome,1,8000,104779
+8,serial,2,1000,800610
+8,lockfree,2,1000,1026759
+8,mutex homequeue,2,1000,980450
+8,mutex awesome,2,1000,1388981
+8,clh homequeue,2,1000,1022729
+8,clh awesome,2,1000,1459879
+8,serial,2,2000,412044
+8,lockfree,2,2000,522452
+8,mutex homequeue,2,2000,519626
+8,mutex awesome,2,2000,766384
+8,clh homequeue,2,2000,527116
+8,clh awesome,2,2000,784616
+8,serial,2,4000,209390
+8,lockfree,2,4000,263422
+8,mutex homequeue,2,4000,266298
+8,mutex awesome,2,4000,404462
+8,clh homequeue,2,4000,269816
+8,clh awesome,2,4000,407885
+8,serial,2,8000,105372
+8,lockfree,2,8000,136682
+8,mutex homequeue,2,8000,135570
+8,mutex awesome,2,8000,207789
+8,clh homequeue,2,8000,136470
+8,clh awesome,2,8000,207958
+8,serial,3,1000,800292
+8,lockfree,3,1000,1607741
+8,mutex homequeue,3,1000,1520277
+8,mutex awesome,3,1000,2082645
+8,clh homequeue,3,1000,1608508
+8,clh awesome,3,1000,2186485
+8,serial,3,2000,412134
+8,lockfree,3,2000,829210
+8,mutex homequeue,3,2000,809139
+8,mutex awesome,3,2000,1142056
+8,clh homequeue,3,2000,835629
+8,clh awesome,3,2000,1174809
+8,serial,3,4000,209631
+8,lockfree,3,4000,424138
+8,mutex homequeue,3,4000,416547
+8,mutex awesome,3,4000,601747
+8,clh homequeue,3,4000,424129
+8,clh awesome,3,4000,612419
+8,serial,3,8000,105261
+8,lockfree,3,8000,212992
+8,mutex homequeue,3,8000,212696
+8,mutex awesome,3,8000,308983
+8,clh homequeue,3,8000,214644
+8,clh awesome,3,8000,312185
+8,serial,7,1000,799785
+8,lockfree,7,1000,3474369
+8,mutex homequeue,7,1000,3437170
+8,mutex awesome,7,1000,3688416
+8,clh homequeue,7,1000,3511795
+8,clh awesome,7,1000,3112265
+8,serial,7,2000,411285
+8,lockfree,7,2000,1820993
+8,mutex homequeue,7,2000,1797511
+8,mutex awesome,7,2000,2647526
+8,clh homequeue,7,2000,1869633
+8,clh awesome,7,2000,2702793
+8,serial,7,4000,208838
+8,lockfree,7,4000,935500
+8,mutex homequeue,7,4000,937906
+8,mutex awesome,7,4000,1404686
+8,clh homequeue,7,4000,957080
+8,clh awesome,7,4000,1421984
+8,serial,7,8000,105133
+8,lockfree,7,8000,478960
+8,mutex homequeue,7,8000,474013
+8,mutex awesome,7,8000,716426
+8,clh homequeue,7,8000,479060
+8,clh awesome,7,8000,726695
+8,serial,13,1000,800124
+8,lockfree,13,1000,3042207
+8,mutex homequeue,13,1000,3560062
+8,mutex awesome,13,1000,2763865
+8,clh homequeue,13,1000,3095949
+8,clh awesome,13,1000,2104859
+8,serial,13,2000,412022
+8,lockfree,13,2000,2311373
+8,mutex homequeue,13,2000,2703845
+8,mutex awesome,13,2000,3373272
+8,clh homequeue,13,2000,2665187
+8,clh awesome,13,2000,2517758
+8,serial,13,4000,209534
+8,lockfree,13,4000,1252084
+8,mutex homequeue,13,4000,1377037
+8,mutex awesome,13,4000,2606716
+8,clh homequeue,13,4000,1379046
+8,clh awesome,13,4000,2615105
+8,serial,13,8000,105235
+8,lockfree,13,8000,670898
+8,mutex homequeue,13,8000,697640
+8,mutex awesome,13,8000,1342785
+8,clh homequeue,13,8000,697919
+8,clh awesome,13,8000,1344031
+8,serial,27,1000,799200
+8,lockfree,27,1000,2259225
+8,mutex homequeue,27,1000,607932
+8,mutex awesome,27,1000,2166013
+8,clh homequeue,27,1000,356054
+8,clh awesome,27,1000,1720297
+8,serial,27,2000,412128
+8,lockfree,27,2000,500708
+8,mutex homequeue,27,2000,417791
+8,mutex awesome,27,2000,2312900
+8,clh homequeue,27,2000,495386
+8,clh awesome,27,2000,2067003
+8,serial,27,4000,209709
+8,lockfree,27,4000,362351
+8,mutex homequeue,27,4000,437224
+8,mutex awesome,27,4000,1881822
+8,clh homequeue,27,4000,500018
+8,clh awesome,27,4000,1529400
+8,serial,27,8000,105705
+8,lockfree,27,8000,249357
+8,mutex homequeue,27,8000,92241
+8,mutex awesome,27,8000,1056623
+8,clh homequeue,27,8000,216680
+8,clh awesome,27,8000,1114066
+9,serial,1,1000,799972
+9,lockfree,1,1000,766913
+9,mutex homequeue,1,1000,733816
+9,mutex awesome,1,1000,735011
+9,clh homequeue,1,1000,759483
+9,clh awesome,1,1000,758349
+9,serial,1,2000,411865
+9,lockfree,1,2000,403079
+9,mutex homequeue,1,2000,393852
+9,mutex awesome,1,2000,393373
+9,clh homequeue,1,2000,401038
+9,clh awesome,1,2000,401049
+9,serial,1,4000,209257
+9,lockfree,1,4000,206997
+9,mutex homequeue,1,4000,204152
+9,mutex awesome,1,4000,204201
+9,clh homequeue,1,4000,206378
+9,clh awesome,1,4000,206498
+9,serial,1,8000,105505
+9,lockfree,1,8000,104948
+9,mutex homequeue,1,8000,104268
+9,mutex awesome,1,8000,104301
+9,clh homequeue,1,8000,104788
+9,clh awesome,1,8000,104807
+9,serial,2,1000,800990
+9,lockfree,2,1000,1152316
+9,mutex homequeue,2,1000,1060712
+9,mutex awesome,2,1000,1397513
+9,clh homequeue,2,1000,1125337
+9,clh awesome,2,1000,1455818
+9,serial,2,2000,411780
+9,lockfree,2,2000,588461
+9,mutex homequeue,2,2000,575939
+9,mutex awesome,2,2000,773984
+9,clh homequeue,2,2000,589320
+9,clh awesome,2,2000,787202
+9,serial,2,4000,209284
+9,lockfree,2,4000,299313
+9,mutex homequeue,2,4000,291051
+9,mutex awesome,2,4000,404194
+9,clh homequeue,2,4000,299901
+9,clh awesome,2,4000,407588
+9,serial,2,8000,105316
+9,lockfree,2,8000,151231
+9,mutex homequeue,2,8000,150341
+9,mutex awesome,2,8000,206889
+9,clh homequeue,2,8000,151087
+9,clh awesome,2,8000,208255
+9,serial,3,1000,800601
+9,lockfree,3,1000,1474618
+9,mutex homequeue,3,1000,1393667
+9,mutex awesome,3,1000,2078228
+9,clh homequeue,3,1000,1476500
+9,clh awesome,3,1000,2171026
+9,serial,3,2000,411789
+9,lockfree,3,2000,761295
+9,mutex homequeue,3,2000,746337
+9,mutex awesome,3,2000,1149028
+9,clh homequeue,3,2000,764367
+9,clh awesome,3,2000,1175505
+9,serial,3,4000,209298
+9,lockfree,3,4000,385341
+9,mutex homequeue,3,4000,382782
+9,mutex awesome,3,4000,605025
+9,clh homequeue,3,4000,387935
+9,clh awesome,3,4000,610810
+9,serial,3,8000,105252
+9,lockfree,3,8000,195891
+9,mutex homequeue,3,8000,195024
+9,mutex awesome,3,8000,310371
+9,clh homequeue,3,8000,196148
+9,clh awesome,3,8000,312192
+9,serial,7,1000,799309
+9,lockfree,7,1000,3214325
+9,mutex homequeue,7,1000,3207574
+9,mutex awesome,7,1000,3620375
+9,clh homequeue,7,1000,3271703
+9,clh awesome,7,1000,3241490
+9,serial,7,2000,411341
+9,lockfree,7,2000,1668753
+9,mutex homequeue,7,2000,1645806
+9,mutex awesome,7,2000,2608057
+9,clh homequeue,7,2000,1675923
+9,clh awesome,7,2000,2695032
+9,serial,7,4000,208502
+9,lockfree,7,4000,851014
+9,mutex homequeue,7,4000,840091
+9,mutex awesome,7,4000,1406966
+9,clh homequeue,7,4000,851743
+9,clh awesome,7,4000,1406419
+9,serial,7,8000,104825
+9,lockfree,7,8000,431748
+9,mutex homequeue,7,8000,425841
+9,mutex awesome,7,8000,722715
+9,clh homequeue,7,8000,434754
+9,clh awesome,7,8000,725659
+9,serial,13,1000,799370
+9,lockfree,13,1000,2965583
+9,mutex homequeue,13,1000,3598990
+9,mutex awesome,13,1000,2798808
+9,clh homequeue,13,1000,3074170
+9,clh awesome,13,1000,2176996
+9,serial,13,2000,411619
+9,lockfree,13,2000,2600254
+9,mutex homequeue,13,2000,2687690
+9,mutex awesome,13,2000,3158008
+9,clh homequeue,13,2000,2633865
+9,clh awesome,13,2000,2663164
+9,serial,13,4000,209040
+9,lockfree,13,4000,1212953
+9,mutex homequeue,13,4000,1373027
+9,mutex awesome,13,4000,2608925
+9,clh homequeue,13,4000,1383322
+9,clh awesome,13,4000,2611911
+9,serial,13,8000,104871
+9,lockfree,13,8000,683203
+9,mutex homequeue,13,8000,695833
+9,mutex awesome,13,8000,1340214
+9,clh homequeue,13,8000,685603
+9,clh awesome,13,8000,1340895
+9,serial,27,1000,797310
+9,lockfree,27,1000,1586661
+9,mutex homequeue,27,1000,904763
+9,mutex awesome,27,1000,2242716
+9,clh homequeue,27,1000,1609127
+9,clh awesome,27,1000,2024084
+9,serial,27,2000,410859
+9,lockfree,27,2000,1038563
+9,mutex homequeue,27,2000,734812
+9,mutex awesome,27,2000,2653806
+9,clh homequeue,27,2000,146691
+9,clh awesome,27,2000,2191708
+9,serial,27,4000,208413
+9,lockfree,27,4000,401528
+9,mutex homequeue,27,4000,275151
+9,mutex awesome,27,4000,1821181
+9,clh homequeue,27,4000,284332
+9,clh awesome,27,4000,2006695
+9,serial,27,8000,104733
+9,lockfree,27,8000,97820
+9,mutex homequeue,27,8000,210935
+9,mutex awesome,27,8000,1296871
+9,clh homequeue,27,8000,66785
+9,clh awesome,27,8000,792070
+10,serial,1,1000,800151
+10,lockfree,1,1000,766737
+10,mutex homequeue,1,1000,734505
+10,mutex awesome,1,1000,733398
+10,clh homequeue,1,1000,758101
+10,clh awesome,1,1000,760713
+10,serial,1,2000,411886
+10,lockfree,1,2000,402950
+10,mutex homequeue,1,2000,393529
+10,mutex awesome,1,2000,393605
+10,clh homequeue,1,2000,400920
+10,clh awesome,1,2000,401085
+10,serial,1,4000,209223
+10,lockfree,1,4000,207010
+10,mutex homequeue,1,4000,204171
+10,mutex awesome,1,4000,204184
+10,clh homequeue,1,4000,206476
+10,clh awesome,1,4000,206603
+10,serial,1,8000,105488
+10,lockfree,1,8000,104927
+10,mutex homequeue,1,8000,104258
+10,mutex awesome,1,8000,104263
+10,clh homequeue,1,8000,104782
+10,clh awesome,1,8000,104779
+10,serial,2,1000,800320
+10,lockfree,2,1000,1238337
+10,mutex homequeue,2,1000,1194068
+10,mutex awesome,2,1000,1412756
+10,clh homequeue,2,1000,1228262
+10,clh awesome,2,1000,1459650
+10,serial,2,2000,411742
+10,lockfree,2,2000,646128
+10,mutex homequeue,2,2000,624448
+10,mutex awesome,2,2000,773796
+10,clh homequeue,2,2000,643071
+10,clh awesome,2,2000,785361
+10,serial,2,4000,209240
+10,lockfree,2,4000,326200
+10,mutex homequeue,2,4000,324909
+10,mutex awesome,2,4000,405255
+10,clh homequeue,2,4000,324381
+10,clh awesome,2,4000,406460
+10,serial,2,8000,105320
+10,lockfree,2,8000,166471
+10,mutex homequeue,2,8000,164143
+10,mutex awesome,2,8000,207643
+10,clh homequeue,2,8000,163969
+10,clh awesome,2,8000,208560
+10,serial,3,1000,801906
+10,lockfree,3,1000,1754459
+10,mutex homequeue,3,1000,1663585
+10,mutex awesome,3,1000,2106334
+10,clh homequeue,3,1000,1750299
+10,clh awesome,3,1000,2201390
+10,serial,3,2000,412020
+10,lockfree,3,2000,908001
+10,mutex homequeue,3,2000,883721
+10,mutex awesome,3,2000,1158435
+10,clh homequeue,3,2000,906182
+10,clh awesome,3,2000,1185992
+10,serial,3,4000,209346
+10,lockfree,3,4000,457138
+10,mutex homequeue,3,4000,454357
+10,mutex awesome,3,4000,605713
+10,clh homequeue,3,4000,462857
+10,clh awesome,3,4000,614241
+10,serial,3,8000,105147
+10,lockfree,3,8000,232538
+10,mutex homequeue,3,8000,231812
+10,mutex awesome,3,8000,310285
+10,clh homequeue,3,8000,234205
+10,clh awesome,3,8000,313059
+10,serial,7,1000,799729
+10,lockfree,7,1000,3343346
+10,mutex homequeue,7,1000,3376954
+10,mutex awesome,7,1000,3738138
+10,clh homequeue,7,1000,3436071
+10,clh awesome,7,1000,3297127
+10,serial,7,2000,411264
+10,lockfree,7,2000,1789592
+10,mutex homequeue,7,2000,1791769
+10,mutex awesome,7,2000,2655381
+10,clh homequeue,7,2000,1814491
+10,clh awesome,7,2000,2710725
+10,serial,7,4000,208607
+10,lockfree,7,4000,912663
+10,mutex homequeue,7,4000,909667
+10,mutex awesome,7,4000,1409201
+10,clh homequeue,7,4000,920369
+10,clh awesome,7,4000,1421917
+10,serial,7,8000,104993
+10,lockfree,7,8000,460654
+10,mutex homequeue,7,8000,459453
+10,mutex awesome,7,8000,711781
+10,clh homequeue,7,8000,458237
+10,clh awesome,7,8000,727413
+10,serial,13,1000,799877
+10,lockfree,13,1000,2979316
+10,mutex homequeue,13,1000,3536664
+10,mutex awesome,13,1000,2732141
+10,clh homequeue,13,1000,3161945
+10,clh awesome,13,1000,2145249
+10,serial,13,2000,412009
+10,lockfree,13,2000,2589746
+10,mutex homequeue,13,2000,2726722
+10,mutex awesome,13,2000,3294669
+10,clh homequeue,13,2000,2726004
+10,clh awesome,13,2000,2632563
+10,serial,13,4000,209482
+10,lockfree,13,4000,1383849
+10,mutex homequeue,13,4000,1378414
+10,mutex awesome,13,4000,2606265
+10,clh homequeue,13,4000,1394281
+10,clh awesome,13,4000,2617734
+10,serial,13,8000,104975
+10,lockfree,13,8000,695081
+10,mutex homequeue,13,8000,702779
+10,mutex awesome,13,8000,1342884
+10,clh homequeue,13,8000,705641
+10,clh awesome,13,8000,1343673
+10,serial,27,1000,797040
+10,lockfree,27,1000,1763807
+10,mutex homequeue,27,1000,104135
+10,mutex awesome,27,1000,2116723
+10,clh homequeue,27,1000,446474
+10,clh awesome,27,1000,1293279
+10,serial,27,2000,411561
+10,lockfree,27,2000,700819
+10,mutex homequeue,27,2000,533985
+10,mutex awesome,27,2000,2271281
+10,clh homequeue,27,2000,1173680
+10,clh awesome,27,2000,1729870
+10,serial,27,4000,209007
+10,lockfree,27,4000,217947
+10,mutex homequeue,27,4000,175971
+10,mutex awesome,27,4000,2018307
+10,clh homequeue,27,4000,242962
+10,clh awesome,27,4000,1421908
+10,serial,27,8000,105273
+10,lockfree,27,8000,105297
+10,mutex homequeue,27,8000,245352
+10,mutex awesome,27,8000,978881
+10,clh homequeue,27,8000,145818
+10,clh awesome,27,8000,1110505
+11,serial,1,1000,799745
+11,lockfree,1,1000,767618
+11,mutex homequeue,1,1000,733097
+11,mutex awesome,1,1000,733093
+11,clh homequeue,1,1000,758091
+11,clh awesome,1,1000,758440
+11,serial,1,2000,411831
+11,lockfree,1,2000,403326
+11,mutex homequeue,1,2000,393365
+11,mutex awesome,1,2000,392750
+11,clh homequeue,1,2000,400406
+11,clh awesome,1,2000,400684
+11,serial,1,4000,209254
+11,lockfree,1,4000,206996
+11,mutex homequeue,1,4000,204465
+11,mutex awesome,1,4000,204209
+11,clh homequeue,1,4000,206465
+11,clh awesome,1,4000,206604
+11,serial,1,8000,105501
+11,lockfree,1,8000,104942
+11,mutex homequeue,1,8000,104248
+11,mutex awesome,1,8000,104234
+11,clh homequeue,1,8000,104819
+11,clh awesome,1,8000,104777
+11,serial,2,1000,800226
+11,lockfree,2,1000,1242765
+11,mutex homequeue,2,1000,1159947
+11,mutex awesome,2,1000,1404389
+11,clh homequeue,2,1000,1233306
+11,clh awesome,2,1000,1483152
+11,serial,2,2000,411940
+11,lockfree,2,2000,646538
+11,mutex homequeue,2,2000,627824
+11,mutex awesome,2,2000,775803
+11,clh homequeue,2,2000,643301
+11,clh awesome,2,2000,790038
+11,serial,2,4000,209326
+11,lockfree,2,4000,330081
+11,mutex homequeue,2,4000,326578
+11,mutex awesome,2,4000,405333
+11,clh homequeue,2,4000,329720
+11,clh awesome,2,4000,409025
+11,serial,2,8000,105354
+11,lockfree,2,8000,166912
+11,mutex homequeue,2,8000,166012
+11,mutex awesome,2,8000,208051
+11,clh homequeue,2,8000,166765
+11,clh awesome,2,8000,208672
+11,serial,3,1000,799866
+11,lockfree,3,1000,1842752
+11,mutex homequeue,3,1000,1758717
+11,mutex awesome,3,1000,2098346
+11,clh homequeue,3,1000,1830027
+11,clh awesome,3,1000,2202559
+11,serial,3,2000,411861
+11,lockfree,3,2000,951487
+11,mutex homequeue,3,2000,927276
+11,mutex awesome,3,2000,1159728
+11,clh homequeue,3,2000,957402
+11,clh awesome,3,2000,1185345
+11,serial,3,4000,209541
+11,lockfree,3,4000,487577
+11,mutex homequeue,3,4000,480406
+11,mutex awesome,3,4000,605363
+11,clh homequeue,3,4000,487149
+11,clh awesome,3,4000,614076
+11,serial,3,8000,105240
+11,lockfree,3,8000,245538
+11,mutex homequeue,3,8000,244956
+11,mutex awesome,3,8000,311355
+11,clh homequeue,3,8000,247458
+11,clh awesome,3,8000,313108
+11,serial,7,1000,800520
+11,lockfree,7,1000,3279481
+11,mutex homequeue,7,1000,3315480
+11,mutex awesome,7,1000,3625012
+11,clh homequeue,7,1000,3369658
+11,clh awesome,7,1000,3286388
+11,serial,7,2000,411656
+11,lockfree,7,2000,1679751
+11,mutex homequeue,7,2000,1725316
+11,mutex awesome,7,2000,2654358
+11,clh homequeue,7,2000,1777608
+11,clh awesome,7,2000,2689035
+11,serial,7,4000,208845
+11,lockfree,7,4000,888461
+11,mutex homequeue,7,4000,882535
+11,mutex awesome,7,4000,1396890
+11,clh homequeue,7,4000,902367
+11,clh awesome,7,4000,1417095
+11,serial,7,8000,105301
+11,lockfree,7,8000,450292
+11,mutex homequeue,7,8000,453168
+11,mutex awesome,7,8000,721838
+11,clh homequeue,7,8000,449216
+11,clh awesome,7,8000,726690
+11,serial,13,1000,800332
+11,lockfree,13,1000,2987474
+11,mutex homequeue,13,1000,3595787
+11,mutex awesome,13,1000,2818391
+11,clh homequeue,13,1000,3065585
+11,clh awesome,13,1000,2028915
+11,serial,13,2000,411957
+11,lockfree,13,2000,2383972
+11,mutex homequeue,13,2000,2684295
+11,mutex awesome,13,2000,3290839
+11,clh homequeue,13,2000,2602485
+11,clh awesome,13,2000,2177088
+11,serial,13,4000,209495
+11,lockfree,13,4000,1269421
+11,mutex homequeue,13,4000,1373996
+11,mutex awesome,13,4000,2592853
+11,clh homequeue,13,4000,1385486
+11,clh awesome,13,4000,2611846
+11,serial,13,8000,104923
+11,lockfree,13,8000,630407
+11,mutex homequeue,13,8000,698954
+11,mutex awesome,13,8000,1341259
+11,clh homequeue,13,8000,701582
+11,clh awesome,13,8000,1344643
+11,serial,27,1000,797931
+11,lockfree,27,1000,699989
+11,mutex homequeue,27,1000,294148
+11,mutex awesome,27,1000,1958884
+11,clh homequeue,27,1000,2000182
+11,clh awesome,27,1000,1907114
+11,serial,27,2000,411372
+11,lockfree,27,2000,282488
+11,mutex homequeue,27,2000,609734
+11,mutex awesome,27,2000,2429568
+11,clh homequeue,27,2000,632252
+11,clh awesome,27,2000,1925338
+11,serial,27,4000,209412
+11,lockfree,27,4000,450511
+11,mutex homequeue,27,4000,92605
+11,mutex awesome,27,4000,1841758
+11,clh homequeue,27,4000,214876
+11,clh awesome,27,4000,2172744
+11,serial,27,8000,105462
+11,lockfree,27,8000,181726
+11,mutex homequeue,27,8000,89966
+11,mutex awesome,27,8000,962438
+11,clh homequeue,27,8000,138741
+11,clh awesome,27,8000,1246018
